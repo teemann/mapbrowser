@@ -1,6 +1,6 @@
 # mapbrowser
 Filebrowser app for PyPlanet for choosing maps
 
-##TODO
+## TODO
  * Change the view to something better fitting
  * Implement search functionality
